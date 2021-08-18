@@ -4,4 +4,4 @@ This is a telegram @crypto_price_trigger_bot. This bot will help in a trigger no
 
 /alert BTC > 50000
 
-Bot sends a notification to the user when the price hits the ~target~ price.
+Bot sends a notification to the user when the price hits the `target` price.
